@@ -1,1 +1,3 @@
-# DAX_Forecast
+# DAX Forecast
+
+This is a personal project in collaboration with Sascha Witte, whom I met at Python Meetup Stuttgart. Our goal was to develop a trading algorithm and DAX Forecast was created as a pilot project. We used historical data of DAX (*Deutscher Aktienindex*, German stock index) for for the project and have tested the data with several models. Meanwhile, the environment for the project was also built along the way - Sascha rents a server and created serveral docker containers for different applications. CentOS was set as the operating system and Python the programming language for the project. I also learned to use MobaXterm and write Linux Bash commands along the way. 
